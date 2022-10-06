@@ -5,20 +5,10 @@
 const nuevaString = 'Hola';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 'Hola';
-=======
-const nuevaString = "Hola";
-
-// Crea una variable numérica, puede ser cualquier número:
-<<<<<<< HEAD
-const nuevoNum = "Hola";
->>>>>>> eb86a053a9c8d5a548053011cd6bcf0ec2b5a386
-=======
-const nuevoNum = "Holaaaa";
->>>>>>> 59c4271b1abf893a12546907c24b2cca7c2c7e30
+const nuevoNum = '1998';
 
 // Crea una variable booleana:
-const nuevoBool = 'Hola';
+const nuevoBool = 'kk';
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
